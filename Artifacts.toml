@@ -1,0 +1,101 @@
+[[SDPA_GMP]]
+arch = "aarch64"
+git-tree-sha1 = "5bb393e03650415696952ebac428e004e85b8ceb"
+os = "macos"
+
+    [[SDPA_GMP.download]]
+    sha256 = "e8278d62cda0c1b7f8bf6d1ec468efeee5adf1668dc80c862ae7ae74ff24d7b8"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.aarch64-apple-darwin.tar.gz"
+[[SDPA_GMP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21be48c173f8667e07b349a5e14863da74339895"
+libc = "glibc"
+os = "linux"
+
+    [[SDPA_GMP.download]]
+    sha256 = "7ce45199371165896cbfaa96583fd46fdcfed20e4997cda74267cad77685eed9"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[SDPA_GMP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2cec7422c988d5002cb9df11faebe5c1aa89f9a"
+libc = "musl"
+os = "linux"
+
+    [[SDPA_GMP.download]]
+    sha256 = "4192c86693ddd93fbcb66c307e38e800842960a270e6ced38fbe3ce956604030"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.aarch64-linux-musl-cxx11.tar.gz"
+[[SDPA_GMP]]
+arch = "aarch64"
+git-tree-sha1 = "d5e6fb92a0f291e239a74bec5a3402479e9c9301"
+os = "freebsd"
+
+    [[SDPA_GMP.download]]
+    sha256 = "11c58824d6f70be1c2109c669d0fc9cefb1c4bd239e14238c536a7e6767eb517"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.aarch64-unknown-freebsd.tar.gz"
+[[SDPA_GMP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91aae1a118eee18743847ca3e120717226af0d87"
+libc = "glibc"
+os = "linux"
+
+    [[SDPA_GMP.download]]
+    sha256 = "be986c23183485d1fca6b712b20d74e7238a6853bd8b83ed4c5c1bde1734255c"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SDPA_GMP]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4355cb859135468cda9e87a06a891e2dbf80f610"
+libc = "glibc"
+os = "linux"
+
+    [[SDPA_GMP.download]]
+    sha256 = "a87fdb2460a80772be4abbd1e579b80a613dc9020fac1d99b0ae92e2e5d5e437"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.riscv64-linux-gnu-cxx11.tar.gz"
+[[SDPA_GMP]]
+arch = "x86_64"
+git-tree-sha1 = "ab88f795b472045c3a99cc7c30721e61b8c9a668"
+os = "macos"
+
+    [[SDPA_GMP.download]]
+    sha256 = "03e4baec577b72e975ac68b33dfae27aac37e5726521af1be127916b4866c9a4"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.x86_64-apple-darwin.tar.gz"
+[[SDPA_GMP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "716442640f2334b1c477c549ff3d06de2e531aa2"
+libc = "glibc"
+os = "linux"
+
+    [[SDPA_GMP.download]]
+    sha256 = "40b55a819ce71071c005fd722bd5d75f8a886ba1799add7b58278342a7f7dc19"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[SDPA_GMP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c6be3da6ff5e1380e9a7658d0ebfa42ba41cae3"
+libc = "musl"
+os = "linux"
+
+    [[SDPA_GMP.download]]
+    sha256 = "3e94047133e5826ccc37f8707d94fcae679cc94393f4267bb544c55dba666fd1"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.x86_64-linux-musl-cxx11.tar.gz"
+[[SDPA_GMP]]
+arch = "x86_64"
+git-tree-sha1 = "705507cf4a5d6f94f14aae3ec76a3c857ea7874f"
+os = "freebsd"
+
+    [[SDPA_GMP.download]]
+    sha256 = "24a8fbaaba8909f39c27d90db7b2bc123f4692aeecef12db53c8e2449ed2a54a"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.x86_64-unknown-freebsd.tar.gz"
+[[SDPA_GMP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "af188428337b443bb9d3a290357f5c7b78169d10"
+os = "windows"
+
+    [[SDPA_GMP.download]]
+    sha256 = "149af58197ba4680fbbce7f715eeb35d35a4384dc916f3b254d7def1e034bef8"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_GMP_jll.jl/releases/download/SDPA_GMP-v7.1.3+0/SDPA_GMP.v7.1.3.x86_64-w64-mingw32-cxx11.tar.gz"
